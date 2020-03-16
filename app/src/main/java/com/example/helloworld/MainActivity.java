@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-//    주석만 달아봄
+//    주석만 달아봄 ㅋㅋㅋ
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
